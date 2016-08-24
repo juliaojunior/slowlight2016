@@ -101,4 +101,5 @@
 (set! num-bands 50)
 
 (run-tm)
+(run-te)
 
